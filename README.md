@@ -17,7 +17,7 @@ It follows the **Page Object Model (POM)**, integrates with **TestNG**, and gene
 ## **Features Automated**
 - ✅ **Login with valid credentials**
 - ✅ **Finding the sum of amount in Dashboard Page**
-
+- ✅ **Parallel test excecution in multiple browser**
 
 ## **How to Run the Tests**
 1. Clone this repository:
